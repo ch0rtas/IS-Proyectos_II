@@ -26,16 +26,22 @@ El desarrollo se realizó en **Unity 2022.3.9f1**, aprovechando sus capacidades 
 1. Clona el repositorio en tu equipo:  
    ```bash  
    git clone https://github.com/ch0rtas/PINGU.git  
-2. Descomprime el archivo Assets.zip en la raíz del proyecto.
+   ```  
 
-3. Abre el proyecto en Unity 2022.3.9f1.
+2. Descomprime el archivo `Assets.zip` en la raíz del proyecto.  
+   
+3. Abre el proyecto en **Unity 2022.3.9f1**.  
 
-4. Explora, prueba y modifica según lo desees.
+4. Explora, prueba y modifica según lo desees.  
 
-## Documentación adicional
+## Documentación adicional  
 
-Para más detalles sobre el desarrollo y las decisiones técnicas tomadas durante este proyecto, consulta el archivo Memoria PINGU.pdf incluido en el repositorio.
+Para más detalles sobre el desarrollo y las decisiones técnicas tomadas durante este proyecto, consulta el archivo **Memoria PINGU.pdf** incluido en el repositorio.  
 
-## Licencia
+## Licencia  
 
-Este proyecto está licenciado bajo la MIT License. Puedes usar, modificar y distribuir el código siempre que incluyas atribución al autor original.
+Este proyecto está licenciado bajo la [MIT License](LICENSE). Puedes usar, modificar y distribuir el código siempre que incluyas atribución al autor original.  
+
+---  
+
+¡Espero que disfrutes explorando y aprendiendo con **PINGU** tanto como yo disfruté desarrollándolo!  
