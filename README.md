@@ -31,3 +31,11 @@ El desarrollo se realizó en **Unity 2022.3.9f1**, aprovechando sus capacidades 
 3. Abre el proyecto en Unity 2022.3.9f1.
 
 4. Explora, prueba y modifica según lo desees.
+
+## Documentación adicional
+
+Para más detalles sobre el desarrollo y las decisiones técnicas tomadas durante este proyecto, consulta el archivo Memoria PINGU.pdf incluido en el repositorio.
+
+## Licencia
+
+Este proyecto está licenciado bajo la MIT License. Puedes usar, modificar y distribuir el código siempre que incluyas atribución al autor original.
