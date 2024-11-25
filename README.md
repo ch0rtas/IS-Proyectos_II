@@ -1,2 +1,33 @@
-# PINGU
-Juego 2D desarrollado en Unity como proyecto individual para el curso "Proyectos II: Tendencias de la Ingeniería del Software". Incluye diseño de personajes, creación de escenarios y mecánicas básicas, aplicando conocimientos adquiridos en clase. Este proyecto consolida habilidades en desarrollo y diseño de videojuegos.
+# PINGU - Juego de Plataformas 2D  
+
+Este repositorio contiene el proyecto **PINGU**, un juego de plataformas desarrollado como parte del curso _"Proyectos II: Tendencias de la Ingeniería del Software"_. Los archivos de **Assets** se han comprimido en un archivo `.zip` para facilitar su manejo y deben descomprimirse antes de abrir el proyecto. Puedes encontrar los siguientes archivos clave en este repositorio:  
+- `Assets.zip`  
+- `Packages`  
+- `ProjectSettings`  
+- `Memoria PINGU.pdf`  
+
+[Ir al proyecto en GitHub](https://github.com/ch0rtas/PINGU)  
+
+## Descripción del proyecto  
+
+**PINGU** es un juego de plataformas ambientado en el Polo Norte, protagonizado por un adorable pingüino. Este proyecto fue desarrollado de manera individual con el objetivo de aplicar las técnicas y conceptos fundamentales aprendidos en el curso, como la física del juego, la detección de colisiones y el diseño de niveles.  
+
+El desarrollo se realizó en **Unity 2022.3.9f1**, aprovechando sus capacidades para la creación de juegos 2D, la optimización de rendimiento y la implementación de mecánicas básicas de juego.  
+
+## Características principales  
+
+- **Diseño de niveles:** Entornos detallados que capturan la esencia del Ártico.  
+- **Física del juego:** Implementación de mecánicas realistas para una experiencia fluida.  
+- **Detección de colisiones:** Sistema preciso que asegura la interactividad.  
+- **Personajes entrañables:** Un pingüino que explora el Ártico enfrentándose a retos únicos.  
+
+## Cómo usar este repositorio  
+
+1. Clona el repositorio en tu equipo:  
+   ```bash  
+   git clone https://github.com/ch0rtas/PINGU.git  
+2. Descomprime el archivo Assets.zip en la raíz del proyecto.
+
+3. Abre el proyecto en Unity 2022.3.9f1.
+
+4. Explora, prueba y modifica según lo desees.
