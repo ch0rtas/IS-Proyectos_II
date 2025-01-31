@@ -12,7 +12,7 @@ Este repositorio contiene el proyecto **PINGU**, un juego de plataformas desarro
 
 **PINGU** es un juego de plataformas ambientado en el Polo Norte, protagonizado por un adorable pingüino. Este proyecto fue desarrollado de manera individual con el objetivo de aplicar las técnicas y conceptos fundamentales aprendidos en el curso, como la física del juego, la detección de colisiones y el diseño de niveles.  
 
-El desarrollo se realizó en **Unity 2022.3.9f1**, aprovechando sus capacidades para la creación de juegos 2D, la optimización de rendimiento y la implementación de mecánicas básicas de juego.  
+El desarrollo se realizó en Unity 2022.3.9f1, aprovechando sus capacidades para la creación de juegos 2D, la optimización de rendimiento y la implementación de mecánicas básicas de juego. El código del juego ha sido desarrollado en C#, destacando su uso para programar las mecánicas, la lógica de juego y la interacción entre los elementos.  
 
 ## Características principales  
 
