@@ -15,7 +15,7 @@ Este repositorio incluye diversos ejercicios y proyectos que abarcan las temáti
 - Detección de colisiones precisa.
 - Mecánicas básicas programadas en C#.
 
-Consulta el README(https://github.com/ch0rtas/IS-Proyectos_II/blob/main/PINGU/README.md) dentro de la carpeta de PINGU para más detalles sobre este proyecto.
+Consulta el [README](https://github.com/ch0rtas/IS-Proyectos_II/blob/main/PINGU/README.md) dentro de la carpeta de PINGU para más detalles sobre este proyecto.
 
 ## Cómo Clonar y Usar Este Repositorio
 
