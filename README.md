@@ -6,7 +6,7 @@ Este repositorio contiene el proyecto **PINGU**, un juego de plataformas desarro
 - `ProjectSettings`  
 - `Memoria PINGU.pdf`  
 
-[Ir al proyecto en GitHub](https://github.com/ch0rtas/PINGU)  
+[Ir al proyecto en GitHub](https://github.com/ch0rtas/IS-Proyectos_II-PINGU)  
 
 ## Descripción del proyecto  
 
