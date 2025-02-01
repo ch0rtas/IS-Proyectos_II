@@ -30,7 +30,7 @@ Consulta el [README](https://github.com/ch0rtas/IS-Proyectos_II/blob/main/PINGU/
 El propósito de este repositorio es documentar y compartir el desarrollo de habilidades prácticas en ingeniería de software. Aquí se reflejan técnicas de desarrollo de software, uso de herramientas modernas, y la implementación de buenas prácticas en proyectos reales.
 
 ## Licencia
-Este repositorio está licenciado bajo la **MIT License**. Puedes usar, modificar y distribuir el contenido siempre que incluyas la atribución al autor original.
+Este repositorio está licenciado bajo la [MIT License](LICENSE). Puedes usar, modificar y distribuir el contenido siempre que incluyas la atribución al autor original.
 
 ---
 ¡Explora, aprende y disfruta del contenido de este repositorio!
