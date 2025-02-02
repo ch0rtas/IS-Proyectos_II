@@ -1,4 +1,0 @@
-modelo^matricula^color^año
-Opel Corsa^8349TFG^verde^2012
-Opel Vectra^8472BSR^rojo^2010
-BMW 320^2398TYD^morado^2009

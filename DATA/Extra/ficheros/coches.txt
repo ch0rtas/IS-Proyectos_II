@@ -1,4 +1,0 @@
-modelo^matricula^color^año
-Seat Ibiza^8349PFG^Rojo^2016
-BMW X3^9449OTF^Azul^2018
-Ford Focus^9339FJJ^Negro^2017
