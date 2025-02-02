@@ -1,0 +1,10 @@
+name="Carlos Vallez"
+email="cmvallez@comillas.edu"
+books=["Python Cookbook","How to think like computer scientist"]
+
+print("I'm " + name +".\n" + "My email is " + email + ".\n" + "Two valid references are: "+' and '.join(books))
+
+
+import os
+clear = lambda: os.system('cls')
+clear()

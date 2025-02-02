@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "day": "29/10/2019",
+    "value": "11.50€",
+    "food": {
+      "options": [
+        {"starter": "soup", "main": "fish&chips"},
+        {"starter": "salad", "main": "pasta"},
+        {"starter": "steak tartare", "main": "tuna"}
+      ]
+    }
+  }
+}
