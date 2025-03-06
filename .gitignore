@@ -52,3 +52,37 @@ out/
 *.dSYM/
 *.core
 *.gdb
+
+### Java ###
+# Eclipse, IntelliJ IDEA, and Android Studio specific
+*.iml
+/.metadata/
+.idea/
+/.idea/
+*.classpath
+*.project
+*.eml
+
+### VS, IntelliJ, and Android Studio ###
+# Ignore the build folder for all environments
+bin/
+tmp/
+*.tmp
+# Output and cache directories for IDEs
+.vscode/
+.idea/
+.gradle/
+build/
+out/
+
+# Android Studio specific
+/.idea/
+.gradle/
+local.properties
+*.apk
+*.ap_ 
+*.aar
+
+# Android Studio build files
+/build/
+*.iml
