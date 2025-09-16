@@ -6,7 +6,7 @@ Bienvenido al repositorio de la asignatura **Proyectos II: Tendencias de la Inge
 
 Este repositorio incluye diversos ejercicios y proyectos que abarcan las temáticas principales de la asignatura. Entre ellos destaca **PINGU**, un juego de plataformas desarrollado en Unity con C#, que puedes encontrar en la siguiente ruta:
 
-[**PINGU - Juego de Plataformas 2D**](https://github.com/ch0rtas/IS-Proyectos_II/tree/main/PINGU)
+[**PINGU - Juego de Plataformas 2D**](https://github.com/ch0rtas/SWE-Proyectos_II/tree/main/PINGU)
 
 ### PINGU: Descripción
 **PINGU** es un juego ambientado en el Polo Norte, protagonizado por un pingüino que explora entornos árticos enfrentando retos únicos. Este proyecto integra técnicas fundamentales aprendidas en el curso, como:
@@ -15,13 +15,13 @@ Este repositorio incluye diversos ejercicios y proyectos que abarcan las temáti
 - Detección de colisiones precisa.
 - Mecánicas básicas programadas en C#.
 
-Consulta el [README](https://github.com/ch0rtas/IS-Proyectos_II/blob/main/PINGU/README.md) dentro de la carpeta de PINGU para más detalles sobre este proyecto.
+Consulta el [README](https://github.com/ch0rtas/SWE-Proyectos_II/blob/main/PINGU/README.md) dentro de la carpeta de PINGU para más detalles sobre este proyecto.
 
 ## Cómo Clonar y Usar Este Repositorio
 
 1. Clona este repositorio en tu equipo:
    ```bash
-   git clone https://github.com/ch0rtas/IS-Proyectos_II.git
+   git clone https://github.com/ch0rtas/SWE-Proyectos_II.git
    ```
 2. Explora las diferentes carpetas para encontrar los ejercicios y proyectos específicos.
 3. Para abrir proyectos como **PINGU**, sigue las instrucciones específicas dentro de sus respectivas carpetas.
